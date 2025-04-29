@@ -83,4 +83,4 @@ class GanttChartWidget(QWidget):
         ax.legend(handles, unique_processes, loc='upper right')
         
         # Refresh the canvas
-        self.canvas.draw()
+        self.canvas.draw() 

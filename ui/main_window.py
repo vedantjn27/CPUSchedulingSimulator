@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import (QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
                              QTableWidget, QTableWidgetItem, QLabel, QPushButton, 
                              QComboBox, QSpinBox, QFormLayout, QTabWidget,
                              QGroupBox, QScrollArea, QMessageBox)
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt 
 import sys
 import numpy as np
 

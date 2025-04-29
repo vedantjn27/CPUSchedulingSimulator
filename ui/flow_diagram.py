@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QWidget, QVBoxLayout
 from PyQt5.QtGui import QPainter, QPen, QBrush, QColor, QFont
 from PyQt5.QtCore import Qt, QRectF, QPointF
 
-class FlowDiagramWidget(QWidget):
+class FlowDiagramWidget(QWidget): 
     """Widget for displaying algorithm flow diagrams."""
     
     def __init__(self, parent=None):

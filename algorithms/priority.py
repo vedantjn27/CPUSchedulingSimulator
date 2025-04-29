@@ -67,4 +67,4 @@ def priority_scheduling(processes):
         
         completed += 1
     
-    return executed_processes, gantt_chart
+    return executed_processes, gantt_chart 
