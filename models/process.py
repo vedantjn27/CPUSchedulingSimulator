@@ -1,4 +1,4 @@
-# models/process.py 
+# models/process.py  
 
 class Process:
     """Represents a process in the system."""
